@@ -5,3 +5,5 @@
 ## Nt Gen Support
 
 [Invite](https://discord.gg/xzZwxN7epx)
+
+NtGen es un proyecto
