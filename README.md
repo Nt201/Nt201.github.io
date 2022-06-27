@@ -1,6 +1,6 @@
 ## NT GEN BOT HYPERRW
 
-[Hyperrw](https://github.com/Nt201/Nt201.github.io/edit/main/README.md)
+[Hyperrw](https://discord.gg/HTGVUkvWVW)
 
 ### Markdown
 
