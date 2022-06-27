@@ -6,4 +6,4 @@
 
 [Invite](https://discord.gg/xzZwxN7epx)
 
-NtGen es un proyecto
+**Aun estoy haciendo esta aparte de la pagina dx**
